@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-09T12:46:46 IST" name="Default suite" finished-at="2025-07-09T12:46:53 IST" duration-ms="6998">
+    <groups>
+    </groups>
+    <test started-at="2025-07-09T12:46:46 IST" name="Default test" finished-at="2025-07-09T12:46:53 IST" duration-ms="6998">
+      <class name="Testcases.logintestcase">
+        <test-method is-config="true" signature="settingup()[pri:0, instance:Testcases.logintestcase@564fabc8]" started-at="2025-07-09T12:46:46 IST" name="settingup" finished-at="2025-07-09T12:46:49 IST" duration-ms="3191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingup -->
+        <test-method signature="loggingin()[pri:0, instance:Testcases.logintestcase@564fabc8]" started-at="2025-07-09T12:46:49 IST" name="loggingin" finished-at="2025-07-09T12:46:53 IST" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.logintestcase@564fabc8]" started-at="2025-07-09T12:46:53 IST" name="teardown" finished-at="2025-07-09T12:46:53 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.logintestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
